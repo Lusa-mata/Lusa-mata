@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lusaduma Mata
+- 👋 Hi, I’m Lusaduma Mata, a software developer graduate
 - 👀 I’m interested in front-end development and mobile applications
 - 🌱 I’m currently learning Python programming language
 
